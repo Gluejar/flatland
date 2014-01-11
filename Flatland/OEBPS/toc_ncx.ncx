@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="9781938616600" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Flatland</text>
+  </docTitle>
+  <docAuthor>
+    <text>Edwin Abbott Abbott</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="content-0006" playOrder="1">
+      <navLabel>
+        <text>Front Cover</text>
+      </navLabel>
+      <content src="content/content-0006.xml" />
+    </navPoint>
+    <navPoint id="content-0007" playOrder="2">
+      <navLabel>
+        <text>PART 1: THIS WORLD</text>
+      </navLabel>
+      <content src="content/content-0007.xml" />
+    </navPoint>
+    <navPoint id="content-0009" playOrder="3">
+      <navLabel>
+        <text>§ 1. Of the Nature of Flat land.</text>
+      </navLabel>
+      <content src="content/content-0009.xml" />
+    </navPoint>
+    <navPoint id="content-0011" playOrder="4">
+      <navLabel>
+        <text>§ 2. Of the climate ana houses in Flatland.</text>
+      </navLabel>
+      <content src="content/content-0011.xml" />
+    </navPoint>
+    <navPoint id="content-0012" playOrder="5">
+      <navLabel>
+        <text>§ 3. Concerning the Inhabitants of Flatland.</text>
+      </navLabel>
+      <content src="content/content-0012.xml" />
+    </navPoint>
+    <navPoint id="content-0013" playOrder="6">
+      <navLabel>
+        <text>§ 4. Concerning the Women.</text>
+      </navLabel>
+      <content src="content/content-0013.xml" />
+    </navPoint>
+    <navPoint id="content-0014" playOrder="7">
+      <navLabel>
+        <text>§ 5. Of our methods of recognizing one another.</text>
+      </navLabel>
+      <content src="content/content-0014.xml" />
+    </navPoint>
+    <navPoint id="content-0018" playOrder="8">
+      <navLabel>
+        <text>§ 6. Of Recognition by Sight.</text>
+      </navLabel>
+      <content src="content/content-0018.xml" />
+    </navPoint>
+    <navPoint id="content-0019" playOrder="9">
+      <navLabel>
+        <text>§ 7. Of Irregular Figures.</text>
+      </navLabel>
+      <content src="content/content-0019.xml" />
+    </navPoint>
+    <navPoint id="content-0021" playOrder="10">
+      <navLabel>
+        <text>§ 9. Of the Universal Colour Bill.</text>
+      </navLabel>
+      <content src="content/content-0021.xml" />
+    </navPoint>
+    <navPoint id="content-0022" playOrder="11">
+      <navLabel>
+        <text>§ 10. Of the Suppression of the Chromatic Sedition.</text>
+      </navLabel>
+      <content src="content/content-0022.xml" />
+    </navPoint>
+    <navPoint id="content-0023" playOrder="12">
+      <navLabel>
+        <text>§ 11. Concerning our Priests.</text>
+      </navLabel>
+      <content src="content/content-0023.xml" />
+    </navPoint>
+    <navPoint id="content-0024" playOrder="13">
+      <navLabel>
+        <text>§ 12. Of the Doctrine of our Priests.</text>
+      </navLabel>
+      <content src="content/content-0024.xml" />
+    </navPoint>
+    <navPoint id="content-0025" playOrder="14">
+      <navLabel>
+        <text>PART II: OTHER WORLDS</text>
+      </navLabel>
+      <content src="content/content-0025.xml" />
+    </navPoint>
+    <navPoint id="content-0027" playOrder="15">
+      <navLabel>
+        <text>§ 13. How I had a Vision of Lineland.</text>
+      </navLabel>
+      <content src="content/content-0027.xml" />
+    </navPoint>
+    <navPoint id="content-0029" playOrder="16">
+      <navLabel>
+        <text>§ 14. How I vainly tried to explain the nature of Flatland.</text>
+      </navLabel>
+      <content src="content/content-0029.xml" />
+    </navPoint>
+    <navPoint id="content-0030" playOrder="17">
+      <navLabel>
+        <text>§ 15. Concerning a Stranger from Spaceland.</text>
+      </navLabel>
+      <content src="content/content-0030.xml" />
+    </navPoint>
+    <navPoint id="content-0032" playOrder="18">
+      <navLabel>
+        <text>§ 16. How the Stranger vainly endeavoured to reveal to me in words the mysteries of Spaceland.</text>
+      </navLabel>
+      <content src="content/content-0032.xml" />
+    </navPoint>
+    <navPoint id="content-0033" playOrder="19">
+      <navLabel>
+        <text>§ 17. How the Sphere, having in vain tried words, resorted to deeds.</text>
+      </navLabel>
+      <content src="content/content-0033.xml" />
+    </navPoint>
+    <navPoint id="content-0035" playOrder="20">
+      <navLabel>
+        <text>§ 18. How I came to Spaceland, and what I saw there.</text>
+      </navLabel>
+      <content src="content/content-0035.xml" />
+    </navPoint>
+    <navPoint id="content-0037" playOrder="21">
+      <navLabel>
+        <text>§ 19. How, though the Sphere showed me other mysteries of Spaceland, I still desired more; and what came of it.</text>
+      </navLabel>
+      <content src="content/content-0037.xml" />
+    </navPoint>
+    <navPoint id="content-0038" playOrder="22">
+      <navLabel>
+        <text>§ 20. How the Sphere encouraged me in a Vision.</text>
+      </navLabel>
+      <content src="content/content-0038.xml" />
+    </navPoint>
+    <navPoint id="content-0039" playOrder="23">
+      <navLabel>
+        <text>§ 21. How I tried to teach the theory of Three Dimensions to my Grandson, and with what success.</text>
+      </navLabel>
+      <content src="content/content-0039.xml" />
+    </navPoint>
+    <navPoint id="content-0041" playOrder="24">
+      <navLabel>
+        <text>§ 22. How I then tried to diffuse the Theory of Three Dimensions by other means, and of the result.</text>
+      </navLabel>
+      <content src="content/content-0041.xml" />
+    </navPoint>
+    <navPoint id="content-0042" playOrder="25">
+      <navLabel>
+        <text>About this Book - From Gluejar</text>
+      </navLabel>
+      <content src="content/content-0042.xml" />
+    </navPoint>
+  </navMap>
+</ncx>

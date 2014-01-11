@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Flatland</title>
+<style type="text/css">
+.frontmatter_header {
+  font-size:1.2em;
+  font-weight:bold
+;}
+.frontmatter_body {
+  font-size:1em;
+}
+
+</style></head>
+<body><div style="display:none;"></div>
+
+<p class="frontmatter_header">About this Book - From Google to Unglue.it</p>
+<p class="frontmatter_body">
+This is a digital copy of a book that was preserved for generations on library
+shelves before it was carefully scanned by Google as part of a project to make
+the world&#39;s books discoverable online. It has survived long enough for the
+copyright to expire and the book to enter the public domain. A public domain
+book is one that was never subject to copyright or whose legal copyright term
+has expired. Whether a book is in the public domain may vary country to
+country. Public domain books are our gateways to the past, representing a
+wealth of history, culture and knowledge that&#39;s often difficult to discover.
+Marks, notations and other marginalia present in the original volume may appear
+in this file - a reminder of this book&#39;s long journey from the publisher to a
+library and finally to you.
+</p>
+
+<p class="frontmatter_body">
+Google Book Search has digitized millions of physical books and made them
+available online at the Google Books web site. The digitization at
+the most basic level is based on page images of the
+physical books. To make this book available as an ePub formatted file we have
+taken those page images and extracted the text using Optical Character
+Recognition (or OCR for short) technology. The extraction of text from page
+images is a difficult engineering task. Smudges on the physical books&#39; pages,
+fancy fonts, old fonts, torn pages, etc. can all lead to errors in the
+extracted text. Imperfect OCR is only the first challenge in the ultimate goal
+of moving from collections of page images to extracted-text based books. Our
+computer algorithms also have to automatically determine the structure of the
+book (what are the headers and footers, where images are placed, whether text
+is verse or prose, and so forth). Getting this right allows presentation of the
+book in a way that follows the format of the original book.
+</p>
+
+<p class="frontmatter_body">
+Despite  Google's best efforts you may see spelling mistakes, garbage characters,
+extraneous images, or missing pages in this book. Google thinks these
+errors should not prevent you from enjoying the content of the book. </p>
+
+<p class="frontmatter_body">At Unglue.it, we think everyone should be able to help fix errors or adapt the work for other uses. That's why we're put the raw code of this book up <a href="https://github.com/Gluejar/flatland">on Github</a>. If you want to fixe something, branch the repo, make the correction, and submit a pull request. We've verify your correction and pull it into the master branch.
+</p>
+
+
+<p class="frontmatter_header">Usage guidelines </p>
+
+<p class="frontmatter_body">
+Google says they are proud to partner with libraries to digitize public domain
+materials and make them widely accessible. Public domain books belong
+to the public and Google are merely custodians.</p>
+<p class="frontmatter_body"> Google
+has taken steps to prevent abuse by commercial parties, including
+placing technical restrictions on automated querying. Unglue.it has removed those technical restraints.
+</p>
+
+<p class="frontmatter_body">
+We (Unglue.it) also ask that you:
+</p>
+<ul>
+<li class="frontmatter_body"> <em>Make use of the files:</em> This work belongs to you.
+</li>
+
+<li class="frontmatter_body"> <em>Make lots of copies:</em> That way, we won't burden Google with lots of automated queries.
+</li>
+
+</ul>
+
+<div style="display:none;"><a id="GBS.PA101"></a></div><div style="display:none;"><a id="GBS.PA104"></a></div>
+
+<div style="display:none;"><a id="PA104.1"></a></div></body></html>
