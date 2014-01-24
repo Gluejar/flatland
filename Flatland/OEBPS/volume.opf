@@ -36,6 +36,7 @@
     <item id="content-0038" href="content/content-0038.xml" media-type="application/xhtml+xml" />
     <item id="content-0039" href="content/content-0039.xml" media-type="application/xhtml+xml" />
     <item id="content-0041" href="content/content-0041.xml" media-type="application/xhtml+xml" />
+    <item id="preface" href="content/preface.xml" media-type="application/xhtml+xml" />
     <item id="content-0042" href="content/content-0042.xml" media-type="application/xhtml+xml" />
     <item id="content-css" href="content/content.css" media-type="text/css" />
     <item id="content-0001" href="data/content-0001.png" media-type="image/png" />
@@ -82,6 +83,7 @@
     <itemref idref="content-0038" />
     <itemref idref="content-0039" />
     <itemref idref="content-0041" />
+    <itemref idref="preface" />
     <itemref idref="content-0042" />
   </spine>
 </package>

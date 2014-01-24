@@ -1,5 +1,12 @@
-<H2>PREFACE TO THE SECOND AND REVISED EDITION, 1884.  BY THE EDITOR</H2>
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Flatland</title>
+<link href="./content.css" rel="stylesheet" type="text/css"/></head>
+<body>
+<div class="gtxt_body">
+<h2>PREFACE TO THE SECOND AND REVISED EDITION, 1884.  BY THE EDITOR</h2>
+<p>
 If my poor Flatland friend retained the vigour of mind which he
 enjoyed when he began to compose these Memoirs, I should not now need
 to represent him in this preface, in which he desires, firstly, to
@@ -15,7 +22,7 @@ also of the terminology, which he acquired during his short stay in
 Spaceland. He has, therefore, requested me to reply in his behalf to
 two special objections, one of an intellectual, the other of a moral
 nature.
-
+</p>
 <p>
 
 The first objection is, that a Flatlander, seeing a Line, sees
@@ -27,7 +34,7 @@ a very slight degree) thick or high. His objection is plausible, and,
 to Spacelanders, almost irresistible, so that, I confess, when I first
 heard it, I knew not what to reply. But my poor old friend's answer
 appears to me completely to meet it.
-
+</p>
 <p>
 
 "I admit," said he - when I mentioned to him this objection - "I admit
@@ -41,7 +48,7 @@ Even I - who have been in Spaceland, and have had the privilege of
 understanding for twenty-four hours the meaning of `height' - even I
 cannot now comprehend it, nor realize it by the sense of sight or by
 any process of reason; I can but apprehend it by faith.
-
+</p>
 <p>
 
 "The reason is obvious. Dimension implies direction, implies
@@ -67,7 +74,7 @@ well as long and broad, although he did not know it. But what was his
 reply?  `You say I am "high"; measure my "highness" and I will believe
 you.' What could I do? How could I meet his challenge? I was crushed;
 and he left the room triumphant.
-
+</p>
 <p>
 
 "Does this still seem strange to you? Then put yourself in a similar
@@ -86,11 +93,11 @@ runs through blind and persecuting humanity in all Dimensions! Points,
 Lines, Squares, Cubes, Extra- Cubes - we are all liable to the same
 errors, all alike the Slaves of our respective Dimensional prejudices,
 as one of your Spaceland poets has said -
+</p>
+<p class="gtxt_quote">
 
-<p>
-
-`One touch of Nature makes all worlds akin'."1
-
+`One touch of Nature makes all worlds akin'.
+</p>
 <p>
 
 On this, point the defence of the Square seems to me to be
@@ -113,8 +120,7 @@ adopted by Flatland, and (as he has been informed) even Spaceland,
 Historians; in whose pages (until very recent times) the destinies of
 Women and of the masses of mankind have seldom been deemed worthy of
 mention and never of careful consideration.
-
-<p>
+</p><p>
 
 In a still more obscure passage he now desires to disavow the Circular
 or aristocratic tendencies with which some critics have naturally
@@ -137,4 +143,6 @@ importance, but lies beyond experience - decline to say on the one
 hand, "This can never be," and on the other hand, "It must needs be
 precisely thus, and we know all about it."
 
-<p>
+</p>
+</div>
+</body></html>

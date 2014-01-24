@@ -158,7 +158,13 @@
       </navLabel>
       <content src="content/content-0041.xml" />
     </navPoint>
-    <navPoint id="content-0042" playOrder="25">
+    <navPoint id="preface" playOrder="25">
+      <navLabel>
+        <text>PREFACE TO THE SECOND AND REVISED EDITION, 1884.</text>
+      </navLabel>
+      <content src="content/preface.xml" />
+    </navPoint>
+    <navPoint id="content-0042" playOrder="26">
       <navLabel>
         <text>About this Book - From Gluejar</text>
       </navLabel>
